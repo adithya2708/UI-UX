@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="exportkit.xd" >
+
+	
+
+	<application
+		android:allowBackup="true"
+		android:theme="@style/AppTheme"
+		android:label="@string/app_name" >
+		<activity
+		android:name=".iphone_x_xs___1_activity"
+		android:configChanges="orientation|keyboardHidden|screenSize"
+		android:label="@string/app_name"  >
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+			<activity android:name="exportkit.xd.iphone_x_xs___2_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___3_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___4_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___5_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___7_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___8_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___6_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___9_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_6_7___35_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___10_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___11_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___12_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___13_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___14_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___15_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___16_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___17_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_x_xs___18_activity"></activity>
+	</application>
+
+</manifest>
+	
+	
